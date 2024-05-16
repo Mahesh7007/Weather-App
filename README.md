@@ -1,1 +1,2 @@
-http://127.0.0.1:5500/index.html
+<h3>This is a live weather application </h3>
+<img src = "https://github.com/Mahesh7007/Weather-App/blob/main/Weather.png" alt = "center">
